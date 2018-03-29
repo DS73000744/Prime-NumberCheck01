@@ -53,7 +53,7 @@ class ViewController: UIViewController, UITextViewDelegate{
     }
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool{
-        txtField.resignFirstResponder()
+        label.resignFirstResponder()
         return true
         
     }

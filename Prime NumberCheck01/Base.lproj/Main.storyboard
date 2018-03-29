@@ -66,7 +66,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="label" destination="kG8-UN-KQ3" id="ict-vr-Tng"/>
+                        <outlet property="label" destination="xbi-5G-XBh" id="kVG-Se-jxU"/>
                         <outlet property="txtField" destination="7Td-pg-137" id="snu-xh-Jwi"/>
                     </connections>
                 </viewController>
